@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AtoZ\\History Of C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D0BD0-6B56-4934-8E84-15326945575E}|History Of C#\\History Of C#.csproj|d:\\atoz\\history of c#\\history of c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D0BD0-6B56-4934-8E84-15326945575E}|History Of C#\\History Of C#.csproj|solutionrelative:history of c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AtoZ\\History Of C#\\History Of C#\\Program.cs",
+              "RelativeDocumentMoniker": "History Of C#\\Program.cs",
+              "ToolTip": "D:\\AtoZ\\History Of C#\\History Of C#\\Program.cs",
+              "RelativeToolTip": "History Of C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:23:18.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
