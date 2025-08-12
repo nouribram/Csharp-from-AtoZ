@@ -1,11 +1,6 @@
-﻿/ Program.cs
+﻿// Program.cs
 // ===========================================
-// The Anatomy of C# — Full, Simple but Detailed
-// Everything you need to understand the “parts” of C#,
-// from basics to advanced concepts, with examples.
-//
-// Author: Your Name
-// License: MIT
+// C# from the Inside Out Simple Breakdown for New Developers
 // ===========================================
 
 using System;
