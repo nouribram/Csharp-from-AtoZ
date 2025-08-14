@@ -1,4 +1,4 @@
-# Csharp-from-AtoZ
+# C#-from-AtoZ
 <img width="1080" height="1080" alt="00" src="https://github.com/user-attachments/assets/1f230403-e5c6-427c-9683-f4bf23cf8857" />
 <img width="1080" height="1080" alt="01" src="https://github.com/user-attachments/assets/6c35c708-4bc4-437b-bf21-94ce7bba8476" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/470873c1-2d72-436b-8b65-e32aa292ee8d" />
@@ -15,7 +15,7 @@
 <img width="1080" height="1080" alt="13" src="https://github.com/user-attachments/assets/5e5f8b89-bc73-4eef-9247-11627a34cd57" />
 <img width="1080" height="1080" alt="14" src="https://github.com/user-attachments/assets/90622e71-062e-48d9-b2e9-bc3f2316d9ed" />
 
-<h2># Intro ot C#</h2>
+<h2># Intro to C#</h2>
 
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/a41055e8-6efc-4b71-baa8-7b8c8f54a911" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/6bf799c1-fc82-402b-9402-b7fc234d5368" />
