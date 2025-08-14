@@ -27,6 +27,14 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/eb5f5806-a63c-4de3-bfb5-c0eedee84943" />
 
 
+<h2>Data Types</h2>
+
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/490a15b6-75b7-445b-9d02-0bd3a390e283" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/dfa3aac0-2b3a-4b9f-b743-fcc6e0e675d2" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/8e0c54b3-5a30-47cc-a6f5-b8605aef0ca3" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/d7785a50-fbd2-4a6b-8232-bd70069780a1" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/edd276a9-6912-4ebd-9273-95610f8b90d4" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/548052f8-3440-44a8-b67b-175f5f4b02bc" />
 
 
 
