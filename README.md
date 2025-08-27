@@ -36,5 +36,14 @@
 <img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/edd276a9-6912-4ebd-9273-95610f8b90d4" />
 <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/548052f8-3440-44a8-b67b-175f5f4b02bc" />
 
+<h2>C# Variables & Constants</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/cd939af4-3cfd-40e9-9ec0-7c3047ebf3c4" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/3c01059d-a2cc-4bc2-9739-10a497f824f6" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/6d7dd5e2-5dd7-4f32-aa6c-d03463c05f9b" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/1196cb8b-5a84-408d-a08a-cd6027e5356d" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/0bfa5f79-848b-4ef6-8082-14abad2bf17d" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/3a452fd0-5a3f-4d85-abba-92fd8ab03d5c" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/7a2a09ac-764d-435a-8bae-7b5584f96d82" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/35e78e3d-8628-47e3-a09c-addf6d2fc17f" />
 
 
