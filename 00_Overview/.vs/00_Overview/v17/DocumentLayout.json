@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AtoZ\\00_Overview\\",
+  "WorkspaceRootPath": "D:\\AtoZ\\Csharp-from-AtoZ\\00_Overview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9730A9A3-3A02-4799-87C8-AC9D35859F1A}|00_Overview\\00_Overview.csproj|d:\\atoz\\00_overview\\00_overview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9730A9A3-3A02-4799-87C8-AC9D35859F1A}|00_Overview\\00_Overview.csproj|solutionrelative:00_overview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AtoZ\\Csharp-from-AtoZ\\00_Overview\\00_Overview\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:00_Overview\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AtoZ\\00_Overview\\00_Overview\\Program.cs",
+              "DocumentMoniker": "D:\\AtoZ\\Csharp-from-AtoZ\\00_Overview\\00_Overview\\Program.cs",
               "RelativeDocumentMoniker": "00_Overview\\Program.cs",
-              "ToolTip": "D:\\AtoZ\\00_Overview\\00_Overview\\Program.cs",
+              "ToolTip": "D:\\AtoZ\\Csharp-from-AtoZ\\00_Overview\\00_Overview\\Program.cs",
               "RelativeToolTip": "00_Overview\\Program.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAA6wA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAiwOwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T20:34:14.298Z",
               "EditorCaption": ""
