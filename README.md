@@ -1,5 +1,4 @@
-<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/416939a0-faf4-483e-8523-5cd0398ef6f7" />
-<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/e18036cb-cca2-4b21-a259-ee935b193154" />
+
 # C#-from-AtoZ
 <img width="1080" height="1080" alt="00" src="https://github.com/user-attachments/assets/1f230403-e5c6-427c-9683-f4bf23cf8857" />
 <img width="1080" height="1080" alt="01" src="https://github.com/user-attachments/assets/6c35c708-4bc4-437b-bf21-94ce7bba8476" />
@@ -56,4 +55,6 @@
 <img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/0c76d24d-a5fd-4a1f-87b8-0c3fbaa8c842" />
 <img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/f2d4c4d6-c2f7-4914-986c-71b1de9999df" />
 <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/d30e8e0b-814e-45be-8b5f-0ef838ee9d29" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/78e5b851-d50e-4530-af71-cbc2fc88abad" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/9044bdb1-a52b-4dc6-a597-311839fa6d59" />
 
