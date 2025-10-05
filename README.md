@@ -29,7 +29,6 @@
 
 
 <h2>Data Types</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/490a15b6-75b7-445b-9d02-0bd3a390e283" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/dfa3aac0-2b3a-4b9f-b743-fcc6e0e675d2" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/8e0c54b3-5a30-47cc-a6f5-b8605aef0ca3" />
