@@ -17,7 +17,6 @@
 <img width="1080" height="1080" alt="14" src="https://github.com/user-attachments/assets/90622e71-062e-48d9-b2e9-bc3f2316d9ed" />
 
 <h2># Intro to C#</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/a41055e8-6efc-4b71-baa8-7b8c8f54a911" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/6bf799c1-fc82-402b-9402-b7fc234d5368" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/2b246120-0af3-44ff-978f-c004610928fc" />
