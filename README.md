@@ -17,7 +17,6 @@
 <img width="1080" height="1080" alt="14" src="https://github.com/user-attachments/assets/90622e71-062e-48d9-b2e9-bc3f2316d9ed" />
 
 <h2># Intro to C#</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/a41055e8-6efc-4b71-baa8-7b8c8f54a911" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/6bf799c1-fc82-402b-9402-b7fc234d5368" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/2b246120-0af3-44ff-978f-c004610928fc" />
@@ -47,8 +46,8 @@
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/7a2a09ac-764d-435a-8bae-7b5584f96d82" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/35e78e3d-8628-47e3-a09c-addf6d2fc17f" />
 
-
 <h2>Arrays in C#</h2>
+
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/083192b6-1697-4133-9f77-f19e0322b530" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/a505769e-0361-4f38-bd5d-179ff364e7dd" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/32406b44-a88c-4ba5-833c-fbde80f36d7a" />
@@ -57,4 +56,14 @@
 <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/d30e8e0b-814e-45be-8b5f-0ef838ee9d29" />
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/78e5b851-d50e-4530-af71-cbc2fc88abad" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/9044bdb1-a52b-4dc6-a597-311839fa6d59" />
+
+<h2> C# Methods </h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/12782354-c4fc-4536-a3d1-b10ec8969409" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/2b6813dd-ef22-477a-ab14-4f554889ab6d" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/5bc2e443-9fd6-4381-a6a4-47db287ffb8d" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/8f55fbe6-5bc2-445b-abf5-752f22262a69" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/b825a3af-11d1-48fc-aa6f-aed175c12894" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/321b2da7-91b5-4ef4-a33f-b3cd93b9d519" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/62257038-cff6-414c-b1ff-74c190cec9dd" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/9336a097-601b-4b1f-8c78-3313d37f3a23" />
 
